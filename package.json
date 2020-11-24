@@ -1,0 +1,18 @@
+{
+  "name": "discordpartner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-logger": "^1.1.0",
+    "discord.js": "^12.5.0",
+    "discordjs-logger": "^1.9.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
