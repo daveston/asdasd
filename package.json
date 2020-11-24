@@ -1,12 +1,14 @@
 {
-  "name": "discordpartner",
-  "version": "1.0.0",
+  "name": "davest",
+  "version": "1",
   "description": "",
   "main": "index.js",
-  "dependencies": {
+  }
+{
+  "dependencies":
     "discord-logger": "^1.1.0",
     "discord.js": "^12.5.0",
-    "discordjs-logger": "^1.9.42"
+    "discordjs-logger": "^1.9.42",
   },
   "devDependencies": {},
   "scripts": {
@@ -15,4 +17,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveston/asdasdasda.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/daveston/asdasdasda.git/issues"
+  }
+  
 }
