@@ -1,1 +1,2 @@
 "# discordskyroxpartnerseg" 
+"# discordskyroxpartnerseg" 
